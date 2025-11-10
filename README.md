@@ -6,7 +6,7 @@ This is the starter code used in Boot.dev's [Build a Pokedex in TypeScript](http
 
 ## Requirements
 
-- Node.js 20.x+ (includes npm)
+- Node.js 20+
 
 ## Installation
 
