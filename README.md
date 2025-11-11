@@ -10,7 +10,7 @@ This is the starter code used in Boot.dev's [Build a Pokedex in TypeScript](http
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 2. Install dependencies:
 ```bash
